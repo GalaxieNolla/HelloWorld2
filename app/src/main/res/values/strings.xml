@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">HelloWorld!</string>
+    <string name="AlexiaIntro">(In Mrs. Doubtfire\'s Scottish voice)</string>
+    <string name="button">Say hello!</string>
+    <string name="Intro_p2">Hello dearies! My name is Alexia, and my favourite actor of all time is none other than the incredible Robin Williams!! Cheers!</string>
+</resources>
